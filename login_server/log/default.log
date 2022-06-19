@@ -1,0 +1,86 @@
+2022-06-19 16:39:18,339 [ERROR IM] - <BaseSocket.cpp>|<66>|<Listen>,bind failed, err_code=98, server_ip=0.0.0.0, port=8008
+2022-06-19 16:39:43,993 [INFO  IM] - <login_server.cpp>|<127>|<main>,server start listen on:
+For client 0.0.0.0:8008
+For MsgServer: 0.0.0.0:8100
+For http:0.0.0.0:8080
+
+2022-06-19 16:39:58,834 [INFO  IM] - <HttpConn.cpp>|<146>|<OnConnect>,OnConnect, handle=9
+
+2022-06-19 16:39:58,837 [ERROR IM] - <HttpConn.cpp>|<198>|<OnRead>,url unknown, url=/ 
+2022-06-19 16:39:58,837 [INFO  IM] - <HttpConn.cpp>|<103>|<~CHttpConn>,~CHttpConn, handle=1
+
+2022-06-19 16:39:58,840 [INFO  IM] - <HttpConn.cpp>|<146>|<OnConnect>,OnConnect, handle=9
+
+2022-06-19 16:40:56,789 [INFO  IM] - <HttpConn.cpp>|<146>|<OnConnect>,OnConnect, handle=10
+
+2022-06-19 16:40:56,792 [INFO  IM] - <HttpConn.cpp>|<249>|<_HandleMsgServRequest>,url:/msg_server, post_data:
+2022-06-19 16:40:56,793 [INFO  IM] - <HttpConn.cpp>|<317>|<OnWriteComlete>,write complete 
+2022-06-19 16:40:56,793 [INFO  IM] - <HttpConn.cpp>|<103>|<~CHttpConn>,~CHttpConn, handle=2
+
+2022-06-19 16:40:57,038 [ERROR IM] - <HttpConn.cpp>|<198>|<OnRead>,url unknown, url=/favicon.ico 
+2022-06-19 16:40:57,038 [INFO  IM] - <HttpConn.cpp>|<103>|<~CHttpConn>,~CHttpConn, handle=3
+
+2022-06-19 16:40:57,070 [INFO  IM] - <HttpConn.cpp>|<146>|<OnConnect>,OnConnect, handle=9
+
+2022-06-19 16:40:57,071 [ERROR IM] - <HttpConn.cpp>|<198>|<OnRead>,url unknown, url=/favicon.ico 
+2022-06-19 16:40:57,071 [INFO  IM] - <HttpConn.cpp>|<103>|<~CHttpConn>,~CHttpConn, handle=4
+
+2022-06-19 16:40:57,682 [INFO  IM] - <HttpConn.cpp>|<146>|<OnConnect>,OnConnect, handle=9
+
+2022-06-19 16:40:57,682 [INFO  IM] - <HttpConn.cpp>|<249>|<_HandleMsgServRequest>,url:/msg_server, post_data:
+2022-06-19 16:40:57,682 [INFO  IM] - <HttpConn.cpp>|<317>|<OnWriteComlete>,write complete 
+2022-06-19 16:40:57,682 [INFO  IM] - <HttpConn.cpp>|<103>|<~CHttpConn>,~CHttpConn, handle=5
+
+2022-06-19 16:40:57,761 [INFO  IM] - <HttpConn.cpp>|<146>|<OnConnect>,OnConnect, handle=9
+
+2022-06-19 16:40:57,761 [INFO  IM] - <HttpConn.cpp>|<249>|<_HandleMsgServRequest>,url:/msg_server, post_data:
+2022-06-19 16:40:57,761 [INFO  IM] - <HttpConn.cpp>|<317>|<OnWriteComlete>,write complete 
+2022-06-19 16:40:57,761 [INFO  IM] - <HttpConn.cpp>|<103>|<~CHttpConn>,~CHttpConn, handle=6
+
+2022-06-19 16:40:57,800 [INFO  IM] - <HttpConn.cpp>|<146>|<OnConnect>,OnConnect, handle=9
+
+2022-06-19 16:40:57,800 [ERROR IM] - <HttpConn.cpp>|<198>|<OnRead>,url unknown, url=/ 
+2022-06-19 16:40:57,800 [INFO  IM] - <HttpConn.cpp>|<103>|<~CHttpConn>,~CHttpConn, handle=7
+
+2022-06-19 17:29:58,070 [INFO  IM] - <login_server.cpp>|<127>|<main>,server start listen on:
+For client 0.0.0.0:8008
+For MsgServer: 0.0.0.0:8100
+For http:0.0.0.0:8080
+
+2022-06-19 17:30:00,983 [INFO  IM] - <HttpConn.cpp>|<146>|<OnConnect>,OnConnect, handle=9
+
+2022-06-19 17:30:00,986 [INFO  IM] - <HttpConn.cpp>|<146>|<OnConnect>,OnConnect, handle=10
+
+2022-06-19 17:30:00,991 [INFO  IM] - <HttpConn.cpp>|<249>|<_HandleMsgServRequest>,url:/msg_server, post_data:
+2022-06-19 17:30:00,991 [INFO  IM] - <HttpConn.cpp>|<317>|<OnWriteComlete>,write complete 
+2022-06-19 17:30:00,991 [INFO  IM] - <HttpConn.cpp>|<103>|<~CHttpConn>,~CHttpConn, handle=1
+
+2022-06-19 17:30:01,260 [ERROR IM] - <HttpConn.cpp>|<198>|<OnRead>,url unknown, url=/favicon.ico 
+2022-06-19 17:30:01,260 [INFO  IM] - <HttpConn.cpp>|<103>|<~CHttpConn>,~CHttpConn, handle=2
+
+2022-06-19 17:30:01,302 [INFO  IM] - <HttpConn.cpp>|<146>|<OnConnect>,OnConnect, handle=9
+
+2022-06-19 17:30:01,305 [ERROR IM] - <HttpConn.cpp>|<198>|<OnRead>,url unknown, url=/favicon.ico 
+2022-06-19 17:30:01,305 [INFO  IM] - <HttpConn.cpp>|<103>|<~CHttpConn>,~CHttpConn, handle=3
+
+2022-06-19 17:30:28,019 [INFO  IM] - <HttpConn.cpp>|<146>|<OnConnect>,OnConnect, handle=9
+
+2022-06-19 17:30:28,026 [INFO  IM] - <HttpConn.cpp>|<249>|<_HandleMsgServRequest>,url:/msg_server, post_data:
+2022-06-19 17:30:28,026 [INFO  IM] - <HttpConn.cpp>|<317>|<OnWriteComlete>,write complete 
+2022-06-19 17:30:28,026 [INFO  IM] - <HttpConn.cpp>|<103>|<~CHttpConn>,~CHttpConn, handle=4
+
+2022-06-19 17:30:28,030 [INFO  IM] - <HttpConn.cpp>|<146>|<OnConnect>,OnConnect, handle=9
+
+2022-06-19 17:30:28,064 [ERROR IM] - <HttpConn.cpp>|<198>|<OnRead>,url unknown, url=/favicon.ico 
+2022-06-19 17:30:28,065 [INFO  IM] - <HttpConn.cpp>|<103>|<~CHttpConn>,~CHttpConn, handle=5
+
+2022-06-19 17:30:28,099 [INFO  IM] - <HttpConn.cpp>|<146>|<OnConnect>,OnConnect, handle=9
+
+2022-06-19 17:30:28,100 [ERROR IM] - <HttpConn.cpp>|<198>|<OnRead>,url unknown, url=/favicon.ico 
+2022-06-19 17:30:28,101 [INFO  IM] - <HttpConn.cpp>|<103>|<~CHttpConn>,~CHttpConn, handle=6
+
+2022-06-19 17:32:03,737 [INFO  IM] - <HttpConn.cpp>|<146>|<OnConnect>,OnConnect, handle=9
+
+2022-06-19 17:32:05,733 [ERROR IM] - <HttpConn.cpp>|<198>|<OnRead>,url unknown, url=/ 
+2022-06-19 17:32:05,733 [INFO  IM] - <HttpConn.cpp>|<103>|<~CHttpConn>,~CHttpConn, handle=7
+
