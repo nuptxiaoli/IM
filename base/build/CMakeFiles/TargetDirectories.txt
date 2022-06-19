@@ -1,0 +1,3 @@
+/home/ubuntu/IM/base/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/IM/base/build/CMakeFiles/base.dir
+/home/ubuntu/IM/base/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+/home/ubuntu/IM/http_msg_server/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/IM/http_msg_server/build/CMakeFiles/http_msg_server.dir
+/home/ubuntu/IM/http_msg_server/build/CMakeFiles/edit_cache.dir
